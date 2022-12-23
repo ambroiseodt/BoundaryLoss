@@ -15,3 +15,9 @@ Implementation inspired from the github [boundary-loss](https://github.com/LIVIA
 We evaluated the boundary loss on the dataset presented in [Breast Ultrasound Images Dataset](https://pubmed.ncbi.nlm.nih.gov/31867417/).
 
 Data available [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset).
+
+## Results
+DSC: Dice Coefficient
+
+![Screenshot 2022-12-23 at 5 40 28 PM](https://user-images.githubusercontent.com/64415312/209369467-f442c8e1-868e-4ed3-816c-ebc515b9a083.png)
+
