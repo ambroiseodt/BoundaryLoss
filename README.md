@@ -18,8 +18,9 @@ Data available [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasou
 
 ## Results
 DSC: Dice Coefficient
-
-![Screenshot 2022-12-23 at 5 40 28 PM](https://user-images.githubusercontent.com/64415312/209369467-f442c8e1-868e-4ed3-816c-ebc515b9a083.png)
+<p align="center">
+  <img width="600" height="250" src="https://user-images.githubusercontent.com/64415312/209369467-f442c8e1-868e-4ed3-816c-ebc515b9a083.png">
+</p>
 
 ## Report
 Report to find [here](https://github.com/AmbroiseOdonnat/BoundaryLoss/blob/main/Boundary_Loss_for_Breast_Ultrasound_Segmentation.pdf).
